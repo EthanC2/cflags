@@ -1,0 +1,1 @@
+-D_FORTIFY_SOURCE=2 -fcf-protection -fexceptions -fstack-clash-protection -fstack-protector-strong -fpie -Wl,-pie

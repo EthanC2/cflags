@@ -1,0 +1,1 @@
+ -Og -fasynchonous-unwind-tables -g3 -ggdb3 -grecord-gcc-switches
